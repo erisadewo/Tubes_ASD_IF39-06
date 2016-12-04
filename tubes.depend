@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1449299520 source:d:\tugas\asd\tubes\tubes\procedure.cpp
+	"header.h"
+
+1448614406 d:\tugas\asd\tubes\tubes\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1448595750 source:d:\tugas\asd\tubes\tubes\tools.cpp
+	"header.h"
+
+1448597441 source:d:\tugas\asd\tubes\tubes\main.cpp
+	<iostream>
+	"header.h"
+
+1448651441 source:c:\users\eri sadewo\documents\tubes_asd\bokepomomcolidikamarmandi\tubes\main.cpp
+	<iostream>
+	"header.h"
+
+1448668406 c:\users\eri sadewo\documents\tubes_asd\bokepomomcolidikamarmandi\tubes\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1449454476 source:c:\users\eri sadewo\documents\tubes_asd\bokepomomcolidikamarmandi\tubes\procedure.cpp
+	"header.h"
+
+1448649750 source:c:\users\eri sadewo\documents\tubes_asd\bokepomomcolidikamarmandi\tubes\tools.cpp
+	"header.h"
+
+1448651441 source:c:\users\eri sadewo\documents\tubes_asd\tubes\tubes\main.cpp
+	<iostream>
+	"header.h"
+
+1480890857 c:\users\eri sadewo\documents\tubes_asd\tubes\tubes\header.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1449454476 source:c:\users\eri sadewo\documents\tubes_asd\tubes\tubes\procedure.cpp
+	"header.h"
+
+1448649750 source:c:\users\eri sadewo\documents\tubes_asd\tubes\tubes\tools.cpp
+	"header.h"
+
